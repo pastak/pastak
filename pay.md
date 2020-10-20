@@ -1,10 +1,14 @@
-## pastakに金を払いたい
+## pastakに金を渡したい
 
 ### id:pastak で探したら送れるサービスの一覧
 
 - Kyash
 - PayPay
 - LINEPay
+
+### Amazonギフト券
+
+pasta0915@gmail.com OR なんらかのDM
 
 ### PayPalで支払いたい
 
