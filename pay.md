@@ -6,6 +6,8 @@
 - PayPay
 - LINEPay
 
+[![LINEのQRコード](https://i.gyazo.com/768ee1eac62cb7776d02318400798542.jpg)](https://gyazo.com/768ee1eac62cb7776d02318400798542)
+
 ### Amazonギフト券
 
 pasta0915@gmail.com OR なんらかのDM
