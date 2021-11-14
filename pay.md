@@ -4,8 +4,6 @@
 
 - Kyash
 - PayPay
-  - https://qr.paypay.ne.jp/r1j96LpimPaiqwd8
-  - ![PayPayのQRコード](https://i.gyazo.com/888702c272543be417b8798b90dc6f52.jpg)
 - LINEPay
   - ![LINEのQRコード](https://i.gyazo.com/768ee1eac62cb7776d02318400798542.jpg)
 
