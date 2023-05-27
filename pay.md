@@ -2,14 +2,9 @@
 
 ### id:pastak で探したら送れるサービスの一覧
 
-- Kyash
 - PayPay
 - LINEPay
   - ![LINEのQRコード](https://i.gyazo.com/768ee1eac62cb7776d02318400798542.jpg)
-
-### Amazonギフト券
-
-pasta0915@gmail.com OR なんらかのDM
 
 ### PayPalで支払いたい
 
