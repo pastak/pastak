@@ -16,8 +16,6 @@
 ### id検索で `pastak` で探したら送れるサービスの一覧
 
 - PayPay
-- LINEPay
-  - ![LINEのQRコード](https://i.gyazo.com/768ee1eac62cb7776d02318400798542.jpg)
 
 ### PayPalで支払いたい
 
