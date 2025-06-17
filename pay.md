@@ -13,10 +13,6 @@
 - 三菱UFJ銀行
   - ask
 
-### id検索で `pastak` で探したら送れるサービスの一覧
-
-- PayPay
-
-### PayPalで支払いたい
+### PayPalで支払いたい(諸々の手数料などが大変なので基本的には避けたい）
 
 https://paypal.me/pastak
