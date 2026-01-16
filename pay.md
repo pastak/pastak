@@ -13,6 +13,10 @@
 - 三菱UFJ銀行
   - ask
 
+### PayPayで送金
+
+- `pastak` or `08053620392`
+
 ### PayPalで支払いたい(諸々の手数料などが大変なので基本的には避けたい）
 
 https://paypal.me/pastak
