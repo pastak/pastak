@@ -17,6 +17,10 @@
 
 - `pastak` or `08053620392`
 
+### Revolutで送金
+
+- https://revolut.me/pastak0915
+
 ### PayPalで支払いたい(諸々の手数料などが大変なので基本的には避けたい）
 
 https://paypal.me/pastak
